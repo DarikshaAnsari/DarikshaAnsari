@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1 align="center">Hi, I'm   Dariksha!
 
-<!--
-**DarikshaAnsari/DarikshaAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Dariksha](https://img.shields.io/badge/-Dariksha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Dariksha/)](https://www.linkedin.com/in/Dariksha/)
+![GitHub followers](https://img.shields.io/github/followers/  DarikshaAnsari?label=Follow&style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🌱 I’m a**Competitive Programmer and DSA Enthusiast**. 
+- 📫 Reach out to me at my **<a href="mailto:dilzaransari970@gmail.com">Email</a>** 
+- 🧑 More of me at my **[Portfolio Website](https://dariksha.netlify.app/)** 
+  <br/>
+   
