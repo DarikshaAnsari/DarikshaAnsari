@@ -5,8 +5,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dariksha/) 
 [![CodeChef](https://img.shields.io/badge/CodeChef-%230077B5.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dariksha269) 
-[![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://www.codechef.com/users/dariksha269) 
-[![CodeForces](https://img.shields.io/badge/CodeForces-%230077B5.svg?logo=CodeForces&logoColor=white)](https://www.codechef.com/users/dariksha269) 
+[![LeetCode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=Leetcode&logoColor=white)](https://https://leetcode.com/Dariksha201103/) 
+[![CodeForces](https://img.shields.io/badge/CodeForces-%230077B5.svg?logo=CodeForces&logoColor=white)](https://https://codeforces.com/profile/Darikhsa201103) 
 [![PortFolio](https://img.shields.io/badge/PortFolio-%230077B5.svg?logo=PortFolio&logoColor=white)](https://dariksha.netlify.app/) 
 
 # 💻 Tech Stack:
